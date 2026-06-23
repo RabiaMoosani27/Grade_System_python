@@ -1,7 +1,7 @@
-## 📊 Student Grade System (Python)
+## 📊 Student Report System (Python)
 ## 🧾 Overview
 
-The Student Grade System is a Python-based beginner project that calculates a student's total marks, percentage, and final grade based on input marks. It helps understand basic programming concepts like conditions, arithmetic operations, and functions
+The Student Report System is a Python-based beginner project that calculates a student's total marks, percentage, and final grade based on input marks. It helps understand basic programming concepts like conditions, arithmetic operations, and functions
 
 ## 🧾 Project Overview
 
