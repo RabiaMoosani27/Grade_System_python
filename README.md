@@ -20,6 +20,7 @@ Total marks are calculated by adding all subject marks.
 📌 Step 2: Percentage
 
 P=(Total Marks/Obtained Marks)×100
+
 📌 Step 3: Grade System
 90 – 100 → A+
 80 – 89 → A
